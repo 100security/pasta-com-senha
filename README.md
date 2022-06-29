@@ -7,8 +7,8 @@ Existem inúmeras formas de proteger seus arquivos no computador e através dest
 ![](https://www.100security.com.br/images/pasta-com-senha-02.png)
 
 # Artigo 
-https://www.100security.com.br/pasta-com-senha
+www.100security.com.br/pasta-com-senha
 
 # Video
-https://www.youtube.com/embed/oKi2MTruslg
+www.youtube.com/embed/oKi2MTruslg
 
